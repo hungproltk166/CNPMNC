@@ -13,9 +13,10 @@ namespace QLKS
         public void Configuration(IAppBuilder app)
         {
             app.MapSignalR();
-            
+
 
             //Test tran thong o day
+            //Test Alicuthong o day
         }
     }
 }
